@@ -79,6 +79,7 @@ def index():
 FIELDS = [
     "result.media",
     "default-release",
+    "default-release.revision.readme-md",
     "result.categories",
     "result.publisher.display-name",
     "result.summary",
